@@ -1,13 +1,5 @@
-<html><head><meta charset="UTF-8" class="tip-ANjzSgO"/><link rel="stylesheet" href="styles.css" class="breadcrumbs-HpqXhncmzZZv"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="subject-PPfIxe"/><meta name="referrer" content="no-referrer" class="active-CxfNLWBVfjuK"/><style> @import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #a3242a; border-radius: 50px; } *::-webkit-scrollbar-thumb { background-color: #b0a674; border-radius: 50px; border: 1px solid #a3242a; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>acadiso.site</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YTP08B4056');
-</script>
-<!-- Google tag (gtag.js) -->
+<html><head><meta charset="UTF-8" class="tip-ANjzSgO"/><link rel="stylesheet" href="styles.css" class="breadcrumbs-HpqXhncmzZZv"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="subject-PPfIxe"/><meta name="referrer" content="no-referrer" class="active-CxfNLWBVfjuK"/><style> @import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #a3242a; border-radius: 50px; } *::-webkit-scrollbar-thumb { background-color: #b0a674; border-radius: 50px; border: 1px solid #a3242a; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>acadiso.site</title>
+ <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
